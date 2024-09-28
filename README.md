@@ -8,8 +8,14 @@ This project is part of the group assignment for the course Fundmentals of Digit
 ## How to view our project?
 Simply click on the highlighted link on the first section to view our website. 
 ![image](https://github.com/user-attachments/assets/bd48851f-0f69-49e2-a3d1-94aed736b99a)<br/>
-Once clicked, it should redirect you to the related website/prototype mobile application/ 
+Once clicked, it should redirect you to the related website/prototype mobile application/mobile application user manual <br/>
+For Example <br/>
+![image](https://github.com/user-attachments/assets/e57420ba-89d4-4abc-967f-ea68135bd152)<br/>
+If the link hyperlink dosent work, please do try out these link.<br/>
 
+**Link to Blog Website:**[https://axcel17bp049.wixsite.com/naturalnotebook]<br />
+**Link to Prototype Mobile Application:** [https://www.figma.com/proto/22jsUOu8n3Y6K0jOGdWZ19/Group-Project?node-id=0-1&t=FcOXQ2Mlt766YnFu-1] <br/>
+**Link to Mobile Application User Manual:** [https://www.canva.com/design/DAGR3jjLHao/Mfo5kGqdF4I0EyH1_Cvqtw/view?utm_content=DAGR3jjLHao&utm_campaign=designshare&utm_medium=link&utm_source=editor]
 
 ## How It's Made:
 Technologies Used
