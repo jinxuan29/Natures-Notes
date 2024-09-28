@@ -7,7 +7,7 @@ This project is part of the group assignment for the course Fundmentals of Digit
 
 ## How to view our project?
 Simply click on the highlighted link on the first section to view our website. 
-![image](https://github.com/user-attachments/assets/31f91637-644c-4325-8cbd-4389adda18af) <br/>
+![image](https://github.com/user-attachments/assets/bd48851f-0f69-49e2-a3d1-94aed736b99a)<br/>
 Once clicked, it should redirect you to the related website/prototype mobile application/ 
 
 
