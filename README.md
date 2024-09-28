@@ -5,6 +5,8 @@ This project is part of the group assignment for the course Fundmentals of Digit
 **Link to Prototype Mobile Application:** [Natural's Notebook Mobile Application Prototype](https://www.figma.com/proto/22jsUOu8n3Y6K0jOGdWZ19/Group-Project?node-id=0-1&t=FcOXQ2Mlt766YnFu-1)<br />
 **Link to Mobile Application User Manual:** [Natural's Notebook Mobile Application User Manual](https://www.canva.com/design/DAGR3jjLHao/Mfo5kGqdF4I0EyH1_Cvqtw/view?utm_content=DAGR3jjLHao&utm_campaign=designshare&utm_medium=link&utm_source=editor)<br/>
 
+## How to view our project?
+Simply click on the highlighted link on the first section to view our website. 
 
 ## How It's Made:
 Technologies Used
