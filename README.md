@@ -7,7 +7,7 @@ This project is part of the group assignment for the course Fundmentals of Digit
 
 
 ## How It's Made:
-# Technologies Used
+Technologies Used
 
 | Technology                  | Purpose                           |
 |-----------------------------|-----------------------------------|
