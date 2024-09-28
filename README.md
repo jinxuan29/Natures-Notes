@@ -6,11 +6,11 @@ This project is part of the group assignment for the course Fundmentals of Digit
 **Link to Mobile Application User Manual:** [Natural's Notebook Mobile Application User Manual](https://www.canva.com/design/DAGR3jjLHao/Mfo5kGqdF4I0EyH1_Cvqtw/view?utm_content=DAGR3jjLHao&utm_campaign=designshare&utm_medium=link&utm_source=editor)<br/>
 
 ## How to view our project?
-Simply click on the highlighted link on the first section to view our website. 
-![image](https://github.com/user-attachments/assets/bd48851f-0f69-49e2-a3d1-94aed736b99a)<br/>
+Simply click on the highlighted link on the first section to view our website. <br/><br/>
+![image](https://github.com/user-attachments/assets/bd48851f-0f69-49e2-a3d1-94aed736b99a)<br/><br/>
 Once clicked, it should redirect you to the related website/prototype mobile application/mobile application user manual <br/>
-For Example <br/>
-![image](https://github.com/user-attachments/assets/e57420ba-89d4-4abc-967f-ea68135bd152)<br/>
+For Example <br/><br/>
+![image](https://github.com/user-attachments/assets/e57420ba-89d4-4abc-967f-ea68135bd152)<br/><br/>
 If the link hyperlink dosent work, please do try out these link.<br/>
 
 # Project Links
@@ -20,7 +20,7 @@ If the link hyperlink dosent work, please do try out these link.<br/>
 | Blog Website                           | https://axcel17bp049.wixsite.com/naturalnotebook                     |
 | Prototype Mobile Application           | https://www.figma.com/proto/22jsUOu8n3Y6K0jOGdWZ19/Group-Project?node-id=0-1&t=FcOXQ2Mlt766YnFu-1 |
 | Mobile Application User Manual         | https://www.canva.com/design/DAGR3jjLHao/Mfo5kGqdF4I0EyH1_Cvqtw/view?utm_content=DAGR3jjLHao&utm_campaign=designshare&utm_medium=link&utm_source=editor |
-
+<br/>
 
 ## How It's Made:
 Technologies Used
@@ -30,6 +30,7 @@ Technologies Used
 | **Wix**                     | Web Application                   |
 | **Figma**                   | Mobile Application Prototype       |
 | **Canva**                   | Mobile Application User Manual     |
+<br/>
 
 ## Credit: 
 This assignment was completed through the collaborative efforts of Team Florista:
