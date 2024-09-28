@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bd35849c-6e1d-4666-80e9-b4a13dd094e0)# Natures-Notes
+# Natures-Notes
 This project is part of the group assignment for the course Fundmentals of Digital Competence For Programmers (LDCW6123). It consists of three components: a blog website created using Wix, a prototype mobile application designed in Figma, and a user manual for the mobile application.<br/>
 
 **Link to Blog Website:** [Natural's Notebook Blog Website](https://axcel17bp049.wixsite.com/naturalnotebook)<br />
