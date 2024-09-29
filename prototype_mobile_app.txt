@@ -1,0 +1,1 @@
+This mobile app is built by using figma, the reason we build this app is to let people have opportunity to learn more about animal.
