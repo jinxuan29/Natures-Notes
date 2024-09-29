@@ -3,7 +3,7 @@ This project is part of the group assignment for the course Fundmentals of Digit
 
 **Link to Blog Website:** [Natural's Notebook Blog Website](https://axcel17bp049.wixsite.com/naturalnotebook)<br />
 **Link to Prototype Mobile Application:** [Natural's Notebook Mobile Application Prototype](https://www.figma.com/proto/22jsUOu8n3Y6K0jOGdWZ19/Group-Project?node-id=0-1&t=FcOXQ2Mlt766YnFu-1)<br />
-**Link to Mobile Application User Manual:** [Natural's Notebook Mobile Application User Manual](https://www.canva.com/design/DAGR3jjLHao/Mfo5kGqdF4I0EyH1_Cvqtw/view?utm_content=DAGR3jjLHao&utm_campaign=designshare&utm_medium=link&utm_source=editor)<br/>
+**Link to Mobile Application User Manual:** [Natural's Notebook Mobile Application User Manual]([https://www.canva.com/design/DAGR3jjLHao/Mfo5kGqdF4I0EyH1_Cvqtw/view?utm_content=DAGR3jjLHao&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAGR3jjLHao/Mfo5kGqdF4I0EyH1_Cvqtw/view?utm_content=DAGR3jjLHao&utm_campaign=designshare&utm_medium=link&utm_source=editor#7))<br/>
 
 ## How to view our project?
 Simply click on the highlighted link on the first section to view our website. <br/><br/>
@@ -19,7 +19,7 @@ If the link hyperlink dosent work, please do try out these link.<br/>
 |----------------------------------------|--------------------------------------------------------------------------------------------|
 | Blog Website                           | https://axcel17bp049.wixsite.com/naturalnotebook                     |
 | Prototype Mobile Application           | https://www.figma.com/proto/22jsUOu8n3Y6K0jOGdWZ19/Group-Project?node-id=0-1&t=FcOXQ2Mlt766YnFu-1 |
-| Mobile Application User Manual         | https://www.canva.com/design/DAGR3jjLHao/Mfo5kGqdF4I0EyH1_Cvqtw/view?utm_content=DAGR3jjLHao&utm_campaign=designshare&utm_medium=link&utm_source=editor |
+| Mobile Application User Manual         | https://www.canva.com/design/DAGR3jjLHao/Mfo5kGqdF4I0EyH1_Cvqtw/view?utm_content=DAGR3jjLHao&utm_campaign=designshare&utm_medium=link&utm_source=editor#7 |
 <br/>
 
 ## How It's Made:
